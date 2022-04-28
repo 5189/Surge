@@ -1,4 +1,4 @@
-#2022-04-01 09:45
+#2022-04-28
 [MITM]
 hostname = %APPEND% c.tieba.baidu.com, %APPEND% *.tiktokv.com, *.byteoversea.com, *.tik-tokapi.com, duckduckgo.com, *.google.cn, *.google.com.hk, sub.store, boxer.baidu.com, api.weibo.cn, mapi.weibo.com, *.uve.weibo.com, -*.weibo.com, mp.weixin.qq.com, security.wechat.com, weixin110.qq.com, vip1.kuwo.cn, testflight.apple.com, pan.baidu.com, weather-data.apple.com, m.douban.com, api.m.jd.com
 
